@@ -1,0 +1,42 @@
+﻿  main.cpp
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\main.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\main.cpp(35): warning C4101: 'rightFront': unreferenced local variable
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\main.cpp(37): warning C4101: 'frontLeft': unreferenced local variable
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\main.cpp(36): warning C4101: 'frontRight': unreferenced local variable
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\main.cpp(34): warning C4101: 'rightBack': unreferenced local variable
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\main.cpp(33): warning C4101: 'avgsr': unreferenced local variable
+  NeuralNet.cpp
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\neuralnet.cpp(121): warning C4018: '<': signed/unsigned mismatch
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\neuralnet.cpp(123): warning C4018: '<': signed/unsigned mismatch
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\neuralnet.cpp(134): warning C4018: '<': signed/unsigned mismatch
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\neuralnet.cpp(158): warning C4018: '<': signed/unsigned mismatch
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\neuralnet.cpp(168): warning C4018: '<': signed/unsigned mismatch
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\neuralnet.cpp(178): warning C4018: '<': signed/unsigned mismatch
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\neuralnet.cpp(180): warning C4018: '<': signed/unsigned mismatch
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\neuralnet.cpp(191): warning C4018: '<': signed/unsigned mismatch
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\neuralnet.cpp(192): warning C4018: '<': signed/unsigned mismatch
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\neuralnet.cpp(201): warning C4018: '<': signed/unsigned mismatch
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\neuralnet.cpp(202): warning C4018: '<': signed/unsigned mismatch
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\neuralnet.cpp(222): warning C4018: '<': signed/unsigned mismatch
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\neuralnet.cpp(223): warning C4018: '<': signed/unsigned mismatch
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\neuralnet.cpp(233): warning C4018: '<': signed/unsigned mismatch
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\neuralnet.cpp(234): warning C4018: '<': signed/unsigned mismatch
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\neuralnet.cpp(282): warning C4018: '<': signed/unsigned mismatch
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\neuralnet.cpp(285): warning C4018: '<': signed/unsigned mismatch
+  CommandZone.cpp
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\commandzone.cpp(87): warning C4018: '<': signed/unsigned mismatch
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\commandzone.cpp(104): warning C4018: '<': signed/unsigned mismatch
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\commandzone.cpp(133): warning C4018: '<': signed/unsigned mismatch
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\commandzone.cpp(191): warning C4018: '<': signed/unsigned mismatch
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\commandzone.cpp(194): warning C4018: '<': signed/unsigned mismatch
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\commandzone.cpp(203): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\commandzone.cpp(204): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\commandzone.cpp(242): warning C4018: '<': signed/unsigned mismatch
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\commandzone.cpp(243): warning C4018: '<': signed/unsigned mismatch
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\commandzone.cpp(249): warning C4018: '<': signed/unsigned mismatch
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\commandzone.cpp(263): warning C4018: '<': signed/unsigned mismatch
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\commandzone.cpp(265): warning C4018: '<': signed/unsigned mismatch
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\commandzone.cpp(269): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  NeuralNetFinal.vcxproj -> M:\Modules\Neural Networks\Assignments\NeuralNetFinal\Debug\NeuralNetFinal.exe
+  NeuralNetFinal.vcxproj -> M:\Modules\Neural Networks\Assignments\NeuralNetFinal\Debug\NeuralNetFinal.pdb (Full PDB)

@@ -1,0 +1,23 @@
+﻿  CommandZone.cpp
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\commandzone.cpp(92): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\commandzone.cpp(93): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\commandzone.cpp(109): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\commandzone.cpp(110): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\commandzone.cpp(137): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\commandzone.cpp(138): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\commandzone.cpp(163): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\commandzone.cpp(265): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'double', possible loss of data
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\commandzone.cpp(266): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'double', possible loss of data
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\commandzone.cpp(267): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'double', possible loss of data
+  ReadData.cpp
+  NeuralNet.cpp
+  main.cpp
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\main.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\main.cpp(37): warning C4101: 'rightFront': unreferenced local variable
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\main.cpp(39): warning C4101: 'frontLeft': unreferenced local variable
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\main.cpp(35): warning C4101: 'averageSonarRange': unreferenced local variable
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\main.cpp(38): warning C4101: 'frontRight': unreferenced local variable
+m:\modules\neural networks\assignments\neuralnetfinal\neuralnetfinal\main.cpp(36): warning C4101: 'rightBack': unreferenced local variable
+  Generating Code...
+  LINK : M:\Modules\Neural Networks\Assignments\NeuralNetFinal\x64\Debug\NeuralNetFinal.exe not found or not built by the last incremental link; performing full link
+LINK : fatal error LNK1104: cannot open file 'AriaDebugVC14.lib'
